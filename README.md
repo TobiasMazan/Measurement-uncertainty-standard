@@ -1,4 +1,4 @@
-# Measurement-uncertainty-standard
+# Measurement uncertainty (technical standard)
 
 __1. Project overview__
 
