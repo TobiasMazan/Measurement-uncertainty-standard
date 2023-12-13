@@ -1,4 +1,4 @@
-# Measurement uncertainty technical standard
+# Technical standard: Statistical Analysis (Measurement uncertainty)
 
 __1. Project overview__
 
